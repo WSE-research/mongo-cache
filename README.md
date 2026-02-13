@@ -1,4 +1,4 @@
-MmongoDB cache
+MongoDB cache
 ==============
 
 Persistent easy-to-use cache.
